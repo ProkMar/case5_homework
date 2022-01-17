@@ -55,3 +55,6 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+
+Команда для создания контейнера: docker build -t case5_homework . 
+Команда для запуска контейнера: docker run -p 5110:5000 case5_homework
